@@ -21,7 +21,7 @@
 <p align="center">
   <img alt="Sign Up" src="https://ik.imagekit.io/rafaelmartins/signup_m0OYvTtqQ.png">
   <img alt="Sign In" src="https://ik.imagekit.io/rafaelmartins/signin_oKChqZ4WW.png">
-  <img alt="Incidents" src="https://ik.imagekit.io/rafaelmartins/incidents_8xF8vmRdN.png">
+  <img alt="Be the Hero" src="https://ik.imagekit.io/rafaelmartins/be-the-hero_wjPMskfFB.gif">
 
 </p>
 
