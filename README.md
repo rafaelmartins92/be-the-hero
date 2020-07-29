@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Sign Up" src="https://ik.imagekit.io/rafaelmartins/signup_m0OYvTtqQ.png">
-  <img alt="Sign In" src="https://ik.imagekit.io/rafaelmartins/signin_oKChqZ4WW.png">
+  <img alt="Scene" src="https://ik.imagekit.io/rafaelmartins/Portfolio/portfolio-scene---be-the-hero_2x_DyrV4TvR0.png">
   <img alt="Be the Hero" src="https://ik.imagekit.io/rafaelmartins/be-the-hero_wjPMskfFB.gif">
 
 </p>
