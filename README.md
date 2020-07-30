@@ -11,17 +11,18 @@
   <p>The main idea is to find good people willing to help pets that need some help.</p>
 </h4>
 
-
+---
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
+---
+
 <p align="center">
   <img alt="Scene" src="https://ik.imagekit.io/rafaelmartins/Portfolio/portfolio-scene---be-the-hero_2x_DyrV4TvR0.png">
   <img alt="Be the Hero" src="https://ik.imagekit.io/rafaelmartins/be-the-hero_wjPMskfFB.gif">
-
 </p>
 
 ## :rocket: Technologies
